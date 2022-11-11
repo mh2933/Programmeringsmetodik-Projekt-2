@@ -2,7 +2,7 @@
 State_Machine 
 
 1. Vad lärde ni er av projektet?
-- Vad en State_Machine gör, i en tillståndsmaskin implemneteras tillstånd i en enumeration exempel kan vara att blinka leds i olika hastigheter och att man hoppar framåt eller bakåt i enumerationen ett specifierat antal steg. 
+- Vad en State_Machine gör, i en tillståndsmaskin implemneteras tillstånd i en enumeration exempel kan vara att blinka leds i olika hastigheter och att man hoppar framåt eller bakåt i enumerationen ett specifierat antal steg. Och hur man ritar en tillståndsgraf.  
 
 2. Vad var lätt/svårt? 
 - Det svåra är mängden kod blir svår att ha i minnet och vad varje del gör vid varje specifikt tillfälle. Men repetition är kunskapens moder som en vis lärare sa en gång :). Jag har fortfarande lite svårt att få ihop alla bitar i delay funktionerna, på vissa ställen är det pekare och andra bara adressoperatorer men det släpper bit för bit, jag får analysera mera så kommer det att släppa.
