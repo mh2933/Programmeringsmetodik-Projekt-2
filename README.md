@@ -14,3 +14,4 @@ State_Machine
 4. Övriga kommentarer.
 - Det är kul och spännande att lära sig såhär mycket på kort tid, det eggar än att steppa up. 
   Hårdvaran hade varit bra att ha lite stabilare, när man kompilerar så vet man inte om det är koden eller hårdvaran som buggar. Framförallt när man står hemma   och försöker förstå sig på.  
+  Jag fick inte reset-knappen att funka som den skulle, jag har kollat igenom koden extra noga men kan inte se något uppenbart fel och försökt att kasta om       koden utan resulatat, det är märkligt för tillståndet STATE_OFF borde väl ändå dyka upp på någon av knapparna? Jag kan bara se dom fyra andra tillstånden.  
